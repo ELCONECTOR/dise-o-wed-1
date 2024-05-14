@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>actividad1</title>
+</head>
+<body bgcolor="#808000">
+	<div align="center"><h1>actividad en clases 1<h1></div>
+	<p>Diego Zambrana Salas</p>
+	<p>13/05/2024</p>
+	<p>diseño wed 1</p>
+	<br>
+	<br>
+	<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBu3qfMTVx__Z8Norsd1uDEGb7IjYipgGwpVS6J2ivQw&s" alt="Descripción de la imagen"></div><br>
+	<br>
+	<audio controls>
+        <source src="C:\html\hola.mpeg" type="audio/mp3"><br>
+        </audio>
+	<br>
+	
+	<video width="640" height="360" controls>
+        <source src="C:\html\cura.mp4" type="video/mp4">
+        Tu navegador no soporta la reproducción de video.
+    </video>
+	
+</body>
+</html>
